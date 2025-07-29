@@ -24,3 +24,32 @@ cd AzureNatureRemoAutomation
 デプロイする手順については、以下の記事を参考にするとスムーズに進められます。
 <br>
 [冬の朝をもっと快適に！Azure×Nature Remoで実現するエアコン自動化プロジェクト #Node.js - Qiita](https://qiita.com/nishifeoda/items/a845c61f59980adf1f64)
+
+---
+
+# Azure × Nature Remo - Air Conditioner Automation Project
+
+This project aims to automate air conditioner control by leveraging Azure Functions or Azure Container Apps and Azure Logic Apps, integrated with Nature Remo. The system is designed to create a comfortable environment, reducing the stress of getting out of bed on cold winter mornings.
+
+## Technologies Used
+| Technology | Details |
+|------|------|
+| **Development Language** | Node.js v22.14.0|
+| **Server Environment** | Azure Functions, Azure Container Apps |
+| **Scheduled Execution** | Azure Logic Apps |
+| **Device Control** | Nature Remo API |
+
+---
+
+## インストール方法
+### 1.  Clone the Repository
+```txt
+git clone https://github.com/Nakkinakki55/AzureNatureRemoAutomation.git
+cd AzureNatureRemoAutomation
+```
+
+## Deployment
+r smooth deployment, you can refer to the following article:
+<br>
+[Make Winter Mornings More Comfortable! Air Conditioner Automation Project with Azure × Nature Remo #Node.js - Qiita](https://qiita.com/nishifeoda/items/a845c61f59980adf1f64)
+
